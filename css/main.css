@@ -1,0 +1,22 @@
+html {
+  font-family: Ariel, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: 400;
+  color: white;
+}
+
+p {
+  margin: 20px;
+  padding: 50px;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+}
